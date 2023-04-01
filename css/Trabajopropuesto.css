@@ -1,0 +1,49 @@
+body{
+    background-color: #451515   ;
+}
+div#header{
+    display: block;
+    margin: 0 0 0 340px;    
+    width: 23.5%;
+}
+
+   
+div#first{
+    width:100%;
+}
+div#second{
+    width:100%;
+}
+
+div#third{
+    width:100%;
+}
+div#fourth{
+    width:100%;
+}
+div#fifth{
+    width:100%;
+}
+h2{
+    text-align:center;
+    color:white;
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.content{
+    display: flex;
+    width: 70%;
+    margin: 5px 5px 5px 0;
+    background-color: orange;
+}
+div, h3{
+    padding: 0 0 0 5px;
+
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div, h4{
+
+    text-align:left;
+}
